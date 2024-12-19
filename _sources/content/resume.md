@@ -2,7 +2,7 @@
 
 Here is my resume:
 
-[Download Resume (PDF)](content/Deven_Shah_Resume.pdf)
+[Download Resume (PDF)](D:\Main_Python\UB_ESDS\EAS503\Mood_classification_book\content\Deven_Shah_Resume.pdf)
 
 ## Summary
 - **Name**: Deven Rahul Shah
